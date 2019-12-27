@@ -1,6 +1,6 @@
 # testJPA
 
-Sistema web com teste JPA.
+Sistema web com teste de Java Persistence API - JPA.
 
 Java Server Pages
 
