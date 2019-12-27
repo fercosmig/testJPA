@@ -2,6 +2,7 @@ build
 target
 .settings
 .project
+README.md
 
 # Compiled class file
 *.class
